@@ -1,0 +1,21 @@
+{
+  "name": "roc-plugin",
+  "version": "1.0.0",
+  "description": "Plugin to manage attachments and their associated meta-info in rest-on-couch",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheminfo/roc-plugin.git"
+  },
+  "author": "Daniel Kostro",
+  "bugs": {
+    "url": "https://github.com/cheminfo/roc-plugin/issues"
+  },
+  "homepage": "https://github.com/cheminfo/roc-plugin#readme",
+  "dependencies": {
+    "bulk-require": "^0.2.1"
+  }
+}
